@@ -5,7 +5,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">RETO COUNTRY APP FractalUP</h3>
+  <h3 align="center">RETO COUNTRY APP</h3>
 
 </div>
 
